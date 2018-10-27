@@ -4,7 +4,7 @@ Tools Bomb-Botnet.
 ## Screenshot
 <img src="https://image.ibb.co/h47w8A/Screenshot-1970-01-01-07-03-36.png" hight="150" wight="150">
 
-#### Installation and Using Lazymux
+#### Installation and Using Bomb-Botnet
 ```
 apt-get update 
 apt-get upgrade
